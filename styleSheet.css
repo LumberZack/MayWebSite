@@ -130,9 +130,16 @@ artLeft {
     margin-bottom: 180px;
 }
 
-
-
-
+@media screen and (max-width:703px){
+ 
+    .bottom {
+        margin-bottom: 150px;
+    }
+    
+    ul {
+        float:left;   
+    }
+}
 
 
 
